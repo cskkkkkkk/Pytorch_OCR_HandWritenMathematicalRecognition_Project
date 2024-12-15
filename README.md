@@ -1,0 +1,1 @@
+# Pytorch_OCR_HandWritenMathematicalRecognition_Project
