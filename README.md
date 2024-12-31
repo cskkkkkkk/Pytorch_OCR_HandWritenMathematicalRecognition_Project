@@ -26,7 +26,7 @@ dataloader.py中：
 测试数据集，对应着结果
 
 # Mydataset.zip
-训练数据集
+训练数据集,太大了进去任务文件夹里看说明进行生成
 
 # Scores
 在测试集上
