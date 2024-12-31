@@ -1,6 +1,6 @@
 # Pytorch_OCR_HandWritenMathematicalRecognition_Project
 
-模型一：
+# 模型一：
 ![image](https://github.com/user-attachments/assets/5af6595b-c52e-4831-a3c7-058aebce896c)
 把词典，测试数据集，训练数据集的路径给改掉就可以直接跑了。
 
@@ -14,10 +14,21 @@ dataloader.py中：
 测试:python test.py
 
 
-模型二：
+# 模型二：
 先修改config文件：
 ![image](https://github.com/user-attachments/assets/3600f3c7-dfd9-46f0-b243-4714da606cee)
 ![image](https://github.com/user-attachments/assets/e1464540-8c6d-44c5-a9b9-1b2242ca5248)
 带mnt的修改掉即可。
 训练：python train.py
 测试: python inference.py
+
+# Mydataset_test.zip
+测试数据集，对应着结果
+
+# Mydataset.zip
+训练数据集
+
+# Scores
+在测试集上
+模型一:32
+模型二:93
